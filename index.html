@@ -12,7 +12,10 @@
             <div class="logo">
                 <span>Sonia</span>
             </div>
-        <i class="fa-solid fa-bars hamburg"></i>
+            <div class="link"><a href="#">Home</a></div>
+            <div class="link"><a href="#">About</a></div>
+            <div class="link"><a href="#">Contact</a></div>
+        <i class="fa-solid fa-bars hamburg" onclick="hamburg()"></i>
         </div>
         <div class="dropdown">
             <div class="links">
@@ -40,6 +43,12 @@
             </div>
         </article>
         </section>
+        <script>
+            function hamburg(){
+                const navbar=document.querySelector(".dropdown")
+                navbar.style.transform="tranaslate(0px)"
+            }
+        </script>
     </nav>
     </body>
     </html>
