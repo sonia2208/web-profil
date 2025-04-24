@@ -31,13 +31,13 @@ nav{
 }
 
 .logo{
-    color:rgb(67, 96, 158);
+    color:rgb(172, 139, 224);
     font-size: 2rem;
     font-weight: bolder;
 }
 
 .logo span{
-    color:rgb(60, 83, 148);
+    color:rgb(58, 89, 172);
     text-shadow: 0 0 10px rgb(172, 168, 228);
 }
 
