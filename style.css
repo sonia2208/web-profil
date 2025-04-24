@@ -13,7 +13,7 @@ body{
     width: 100%;
     height:100vh;
     overflow: hidden;
-    background: linear-gradient(to right,rgb(201, 58, 230),rgb(201, 92, 223));
+    background: linear-gradient(to right,rgb(222, 134, 240),rgb(221, 113, 243));
 }
 
 nav{
@@ -37,7 +37,7 @@ nav{
 }
 
 .logo span{
-    color:rgb(58, 89, 172);
+    color:rgb(82, 111, 190);
     text-shadow: 0 0 10px rgb(172, 168, 228);
 }
 
